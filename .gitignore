@@ -1,3 +1,4 @@
 node_modules
 .directory
 yarn-error.log
+*.sqlite
