@@ -7,6 +7,9 @@ Está é uma aplicação básica desenvolvida em Node utilizando o microframewor
 - Express
 - Nodemon
 - Sucrase
+- Sequelize
+- Sequelize-cli
+- Sqlite3
 
 ## Para usar
 
