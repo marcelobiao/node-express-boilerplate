@@ -1,4 +1,4 @@
-# node-express-base-app
+# node-express-boilerplate
 
 Está é uma aplicação básica desenvolvida em Node utilizando o microframework Express, com algumas dependências instaladas e pré-configuradas, ideal para ser utilizada como base para o desenvolvimento de uma nova aplicação.
 
